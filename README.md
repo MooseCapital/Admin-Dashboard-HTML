@@ -10,6 +10,5 @@ This project is from [The Odin Project](https://www.theodinproject.com/lessons/n
 
 I only used Html and CSS grid. Images are hosted with Cloudinary cdn.
 
-This is my Admin Dashboard from TheOdinProject.
-I chose to add some personal elements I like with a nice video background and gradient text effect.
+
 
