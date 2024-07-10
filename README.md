@@ -4,7 +4,7 @@
   <img src="https://badges.aleen42.com/src/html5.svg" alt="html-badge">
   <img src="https://badges.aleen42.com/src/css3.svg" alt="css-badge">
 <br>
-<img src="./images/admindashboardprev.webp" width="500px" height="auto">
+<img src="./images/admindashboardprev.webp" width="600px" height="auto">
 
 </div>
 
